@@ -1,2 +1,1 @@
-# C9
-t-rex
+# sprites
